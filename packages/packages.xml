@@ -25,6 +25,7 @@
 			<file>src/_jqueryui/jquery.ui.widget.js</file>
 			<file>src/_jqueryui/jquery.ui.position.js</file>
 			<file>src/_jqueryui/jquery.ui.autocomplete.js</file>
+			<file>src/bbc/jquery.bbc.autocomplete.js</file>
 			
 			<file>src/footer/ui.js</file>
 		</js>
