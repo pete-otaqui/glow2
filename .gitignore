@@ -11,3 +11,4 @@ build/lib/yuicompressor
 .DS_Store
 .idea
 /src/_jquery/jquery.js
+.svn
